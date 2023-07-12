@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<HTML>
+    <HEAD>
+        <TITLE>SElfINTRO</TITLE>
+        <STYLE>
+            .H{
+                COLOR:BLACK;
+                BACKGROUND-COLOR:rgba(133, 238, 28, 0.883);
+                WIDTH:300PX;
+                HEIGHT:300PX;
+                BORDER:2PX LINE RED;
+                BORDER-RADIUS:5PX;
+                text-align:center-BOX;
+                PADDING:100PX OPX 500PX OPX;
+                MARGIN:100PX;
+            }
+               
+
+            
+
+
+        </STYLE>
+        <BODY>
+            <h6 CLASS ="H"> NAVEEN</h6>
+            <H5 CLASS ="H">SELFINTRO</H5>
+            <u>
+              <B>SELFINTRO:</B> 
+            </u>
+            <P>HI IAM NAVEEN KUMAR IAM FROM RASIPURAM.IAM CURRENTLY PURSING MY BE COURSE AT MUTHYAMMAL ENGINEERING COLLEGE RASIPURAM.</P>.
+            <MARK>1.MY HOBBY IS WATCHING TV,PLAYING CRICKET.</MARK>
+            <BR>
+            </BR>
+            <I>2.MY TECHINAL SKILLS MYSQL,JAVA PROGRAMMING.</I>
+            <p>3.IAM GOOD LEARNER  <SUB>*********</SUB></p>
+            <p>4.I ENJOYING TRAVELLING LONG DISTANCE.</p>
+            <P>5.I GOT PRIZE IN THROWBALL DISTRICT LEVEL<SUPER>RUNNER</SUPER></P>
+            <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora vitae adipisci voluptates ipsa iusto voluptatum, facilis autem accusamus eaque minima aut non unde, reprehenderit optio error expedita tempore fugit nostrum.</P>
+            <dl>
+                <dt>6.NAVEEN LIKE Coffee:</dt>
+                <dd>Black hot drink</dd>
+                <dt>7.NAVEEN DONT LIKE Milk:</dt>
+                <dd>White cold drink</dd>
+              </dl>
+              <H1>Click on the "Choose File" button to upload a file:</H1>
+
+              <form action="/action_page.php">
+              <input type="file" id="myFile" name="filename">
+             <input type="submit">
+             </form>    
+        </BODY>
+    </HEAD>
+</HTML>
